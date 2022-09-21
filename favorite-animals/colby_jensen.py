@@ -1,0 +1,1 @@
+print("Colby's favorite animal is a dog")
